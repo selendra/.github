@@ -1,4 +1,4 @@
-## Hi Community 👋
+## Hello visitors 👋
 
 Welcome to the Selendra Github page. We like to call ourselves `Selendrans`. We hope you will take part of the journey together with us. 
 
