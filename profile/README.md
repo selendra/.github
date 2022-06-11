@@ -1,22 +1,17 @@
-## Hello visitors 👋
+# Hello visitors 👋
 
-Welcome to the Selendra Github page. We like to call ourselves `Selendrans`. We hope you will take part of the journey together with us. 
+Welcome to Selendra Blockhain. Please look around and lets us know what you think. 
 
-Feel free the explore the repos. We are no experts in the field of Blockchain, but we are a willing learning, thus mistakes is expected. We do not call them mistakes though, we call them experiments.
+## Links
 
-A bit about Selendra and what we are set to accomplished for the networks and users. 
+- [Website](https://selendra.org)
+- [Blog](https://medium.com/selendra)
+- [Telegram Community](https://t.me/selendrachain)
+- [Telegram Channels](https://t.me/selendrachainofficial)
+- [Twitter](https://twitter.com/selendrachain)
 
-`Selendra` is a nominated proof-of-stake, multi-chains network system, together with its special purpose native parachains built for crypto's mass adoption.
 
-`Selendra`'s special purpose native parachains consists of; 
-- `Selendra DID`, a digital identity and credential network. 
-- `Indracore EVM`, a fully EVM compatibility for cross-chain operations and DApps development with Solidity.
-- `Rise Stable DAO`, a multi assets network of stablecoins design for Selendra ecosystem and cross-chain liquidity
-- `Kumandra`, an effort to build fully decentralized computing and digital storages for decentralize era.
 
-`SEL` is `Selendra`'s netive token. It is a multi-network token. It meants that SEL will be used to settle fee across these native parachains and apps that are built on them, make SEL a very desireable assets for utilities and an asset class to hold.   
-
-More to come!
 
 <!--
 
