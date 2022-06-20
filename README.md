@@ -1,5 +1,3 @@
-# .github
-
 # Hello, 👋
 
 Welcome to Selendra, an interoperable nominated Proof-of-Stake network for developing and running Substrate-based and EVM compatible Blockchain applications. 
