@@ -1,6 +1,8 @@
-# Hello visitors 👋
+# Hello, 👋
 
-Welcome to Selendra Blockhain. Please look around and lets us know what you think. 
+Welcome to Selendra, an interoperable nominated Proof-of-Stake network for developing and running Substrate-based and EVM compatible Blockchain applications. 
+
+Feel free to look around. Lets us know what you think via links below. 
 
 ## Links
 
@@ -10,8 +12,9 @@ Welcome to Selendra Blockhain. Please look around and lets us know what you thin
 - [Telegram Channels](https://t.me/selendrachainofficial)
 - [Twitter](https://twitter.com/selendrachain)
 
+## DevDocs
 
-
+For the developers and users documentation, they are being reconstructed to follow up on the Selendra network upgrade. Please look our around early August.
 
 <!--
 
