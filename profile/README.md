@@ -1,6 +1,6 @@
 # Hello, 👋
 
-Welcome to Selendra, an interoperable nominated Proof-of-Stake network for developing and running Substrate-based and EVM compatible Blockchain applications. 
+Welcome to Selendra, a mulitchains interoperable nominated Proof-of-Stake network for developing and running Substrate-based and EVM compatible Blockchain applications. 
 
 Feel free to look around. Lets us know what you think via links below. 
 
